@@ -1,0 +1,3 @@
+*.txt
+cuda
+.ipynb_checkpoints
